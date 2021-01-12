@@ -42,7 +42,7 @@
     background-color: #9b59b6;
 }
 
-.ui-menu-color-contact {
+.ui-menu-color-work {
     background-color: #3498db;
 }
 
@@ -50,6 +50,9 @@
     background-color: #d9a81d;
 }
 
+.ui-menu-color-interests {
+    background-color: #e74c3c;
+}
 
 .ui-menu-color-github {
     background-color: #1c4a6c;
