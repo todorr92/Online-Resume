@@ -140,6 +140,7 @@ header {
 
 #nav {
     margin: 0;
+    width: 100%;
 }
 
 #nav li {
@@ -211,10 +212,6 @@ footer .cv-pdf i:hover {
     -o-transition: all 0.35s ease-in-out;
 }
 
-.social-links {
-    padding-bottom: 15px;
-}
-
 .social-links li a i {
     width: 32px;
     height: 32px;
@@ -231,6 +228,13 @@ footer .cv-pdf i:hover {
     -o-transition: all 0.35s ease-in-out;
 }
 
+.list-group-item {
+    border: 0;
+    padding: 5px;
+}
+.socials{
+    background-color: inherit;
+}
 .social-links li a i:hover {
     background: #e84610;
 }
@@ -356,32 +360,13 @@ footer .cv-pdf i:hover {
     margin-bottom: 30px;
 }
 
-/*--------------------------------------------Contact*/
-
-.contact-heading {
-    font-family: "Exo", sans-serif;
-    font-weight: 300;
-    margin-top: 25px;
-    margin-bottom: 20px;
-}
+/*--------------------------------------------Github*/
 
 
 .center-form {
     padding-top: 10px;
     margin: 0 auto;
     max-width: 70%;
-}
-
-button[type="submit"] {
-    margin-top: 15px;
-    margin-bottom: 20px;
-    background-color: #e84610;
-    color: #fafafa;
-}
-
-/*--------------------------------------------Map*/
-div#map {
-    min-height: 360px;
 }
 
 /*--------------------------------------------Media Queries*/
