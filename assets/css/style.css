@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
-
 /*--------------------------------------------Colors*/
 
 .bg-color-name-title {
@@ -101,7 +100,6 @@ h4 {
     margin-top: 25px;
     margin-bottom: 40px;
 }
-
 
 /*--------------------------------------------Heading*/
 
@@ -393,6 +391,10 @@ div#map {
         padding: 0 30px 30px;
         float: none;
         display: table-cell;
+    }
+
+    .section-column-work{
+        padding: 0 30px 30px;
     }
 
     .center-form {
