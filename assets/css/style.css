@@ -187,6 +187,14 @@ header {
     height: 120px;
 }
 
+.panel:hover{
+    color: #e84610;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+    background-color: #e7e3e3;
+}
 
 /*--------------------------------------------Footer*/
 
